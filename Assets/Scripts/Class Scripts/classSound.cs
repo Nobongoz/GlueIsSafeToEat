@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class snapToPixelGrid : MonoBehaviour
+public class classSound : MonoBehaviour
 {
+    public AudioClip myClip;
+
     // Start is called before the first frame update
     void Start()
     {
